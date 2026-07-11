@@ -16,14 +16,15 @@ main {
 aside {
     width: 20rem;
     margin: 1rem;
-    border: 1px solid rgb(0 0 0 / 0.2);/ * 1️⃣ * padding: 1rem;
+    border: 1px solid rgb(0 0 0 / 0.2);
+    padding: 1rem;
     background-color: #eee;
     color: #333;
     text-align: center;
 }
 
 aside img {
-    width: 150 px;
+    width: 200px;
     height: auto;
 }
 
@@ -46,7 +47,6 @@ p {
 main img {
     width: 150px;
     height: auto;
-
 }
 
 footer {
