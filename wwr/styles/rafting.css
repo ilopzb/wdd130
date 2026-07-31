@@ -323,7 +323,7 @@ footer p {
 }
 
 .contact-form button:hover {
-    background-color: var(--secondary-color);
+    background-color: #b83b3f;
     color: white;
 }
 
